@@ -8,9 +8,13 @@
 O projeto deveria seguir os seguintes requisitos:
 
 [x]  Possuir um Menu 
+
 [x] Permite que o usuário realizasse depositos onde o valor deveria ser positivo
+
 [x]  Executar apenas saques por dia, com valores inferiores a R$ 500,00
+
 [x]  Demonstrar o extrato das operações
+
 
 ### Melhorias
 
@@ -18,8 +22,8 @@ A parte obrigatoria já foi finalizada mas algumas melhorias podem ser implement
 
 - [ ] Login
 - [ ] Melhorar o acesso ao menu 
-- [ ] 
-- [ ] 
-- [ ] 
+
+### Fora esse projeto você pode encontrar alguns fundamentos básicos nesse repositório
+
 
 Obrigada por ler até aqui!  
